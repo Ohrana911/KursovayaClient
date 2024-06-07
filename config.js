@@ -1,0 +1,1 @@
+export const API_URL = `https://kursovayaserver-production.up.railway.app/`
